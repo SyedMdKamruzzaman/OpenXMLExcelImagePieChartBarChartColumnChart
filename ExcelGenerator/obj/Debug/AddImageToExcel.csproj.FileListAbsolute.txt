@@ -1,0 +1,12 @@
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\AddImageToExcel.exe.config
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\AddImageToExcel.exe
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\AddImageToExcel.pdb
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\System.IO.Packaging.dll
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\bin\Debug\System.IO.Packaging.xml
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\obj\Debug\AddImageToExcel.csprojAssemblyReference.cache
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\obj\Debug\AddImageToExcel.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\obj\Debug\AddImageToExcel.csproj.CopyComplete
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\obj\Debug\AddImageToExcel.exe
+E:\Users\user\source\repos\AddImageToExcel\AddImageToExcel\obj\Debug\AddImageToExcel.pdb

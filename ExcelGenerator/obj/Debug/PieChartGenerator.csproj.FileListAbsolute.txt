@@ -1,0 +1,12 @@
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\PieChartGenerator.exe.config
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\PieChartGenerator.exe
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\PieChartGenerator.pdb
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\System.IO.Packaging.dll
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\bin\Debug\System.IO.Packaging.xml
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\obj\Debug\PieChartGenerator.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\obj\Debug\PieChartGenerator.csproj.CopyComplete
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\obj\Debug\PieChartGenerator.exe
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\obj\Debug\PieChartGenerator.pdb
+E:\Users\user\source\repos\PieChartGenerator\PieChartGenerator\obj\Debug\PieChartGenerator.csprojAssemblyReference.cache
